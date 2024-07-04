@@ -2,12 +2,13 @@
 
 In my capstone project, I delved into the fascinating and crucial realm of software fault detection leveraging advanced machine learning techniques. The primary objective was to enhance the reliability and efficiency of software systems by identifying and predicting potential faults before they manifest in a production environment.
 
-Project Overview:
+## Project Overview:
 
-Objective: To enhance the accuracy of software fault detection using Machine Learning and Deep Learning-based classification approaches.
-Datasets Used: PROMISE and NASA Software Fault Detection repositories.
-Outcome: Improved fault detection performance, showcasing the efficacy of ensemble models over baseline predictors.
-Step-by-Step Process:
+### Objective: To enhance the accuracy of software fault detection using Machine Learning and Deep Learning-based classification approaches.
+### Datasets Used: PROMISE and NASA Software Fault Detection repositories.
+### Outcome: Improved fault detection performance, showcasing the efficacy of ensemble models over baseline predictors.
+
+## Step-by-Step Process:
 
 Dataset Collection and Description:
 Gathered datasets from PROMISE and NASA repositories, focusing on software fault metrics.
@@ -33,11 +34,11 @@ Trained models on the preprocessed dataset.
 Assessed model performance using metrics like accuracy, precision, recall, and F1-score.
 Conducted cross-validation to ensure robustness and generalizability.
 
-Results and Findings:
+### Results and Findings:
 Ensemble models outperformed individual baseline models in fault detection accuracy.
 The study demonstrated that combining simple predictors can significantly improve fault detection performance.
 
-Models Used:
+### Models Used:
 Decision Tree
 K-Nearest Neighbors (KNN)
 Logistic Regression
@@ -45,12 +46,12 @@ Artificial Neural Network (ANN)
 Convolutional Neural Network (CNN)
 Bagging and Boosting (Ensemble techniques)
 
-Outcome:
+### Outcome:
 Enhanced software fault detection accuracy.
 Demonstrated the efficacy of ensemble models in improving fault prediction.
 Contributed to the advancement of reliable and efficient software maintenance practices.
 
-Key Highlights:
+## Key Highlights:
 
 Machine Learning Algorithms: Employed cutting-edge machine learning algorithms to accurately detect faults in software systems. These algorithms were trained on extensive datasets, ensuring robust fault detection capabilities.
 
